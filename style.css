@@ -80,7 +80,7 @@ a {
   color: hsl(75, 94%, 57%);
 }
 
-@media (max-width: 576px) {
+@media (max-width: 384px) {
   .container {
     /* background-color: #cdb4db; */
     width: 100vw;
