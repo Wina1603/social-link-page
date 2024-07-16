@@ -88,4 +88,10 @@ a {
     place-content: center;
     margin: 0 auto;
   }
+  .attribution {
+  font-size: 10px;
+  font-weight: bold;
+  color: white;
+  padding-left:4px;
+}
 }
