@@ -26,13 +26,13 @@ p {
 
 .container {
   margin: 200px auto;
-  width: 400px;
+  max-width: 400px;
   padding: 55px;
   background-color: hsl(0, 0%, 12%);
   border-radius: 20px;
 }
 .sub {
-  width: 400px;
+  max-width: 400px;
   color: #cfcccc;
 }
 .prof-pic {
